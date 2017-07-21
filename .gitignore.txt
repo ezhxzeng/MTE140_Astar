@@ -1,0 +1,6 @@
+#things to not track
+a_star.o
+a_star_test.o
+Makefile.win
+assignment_4.layout
+assignment_4.exe
